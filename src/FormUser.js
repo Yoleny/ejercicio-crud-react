@@ -1,6 +1,6 @@
 import React from 'react';
 
-const FormularioUsuarios = () => {
+const FormUser = () => {
   return (
     <div>
       <h1>Formulario de Usuarios</h1>
@@ -19,4 +19,4 @@ const FormularioUsuarios = () => {
   );
 };
 
-export default FormularioUsuarios;
+export default FormUser;
